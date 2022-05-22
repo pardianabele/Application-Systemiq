@@ -2,7 +2,7 @@ import Data_processing as dp
 import numpy as np
 import scipy
 from scipy import stats
-from datetime import datetime, time
+from datetime import datetime
 
 #6. T-test
 #average 1 week rev. male and female
